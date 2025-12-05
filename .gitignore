@@ -1,0 +1,6 @@
+tests
+myenv
+data
+emotion_model.h5
+training_log.csv
+training_history.json
